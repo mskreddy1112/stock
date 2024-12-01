@@ -1,0 +1,6 @@
+pip>=21.0
+Flask
+yfinance
+matplotlib
+numpy
+pandas
